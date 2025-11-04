@@ -32,7 +32,7 @@ I'm an **AWS Solutions Architect** and **DevOps Engineer** with a passion for bu
 
 ### 📊 GitHub Stats
 
-![Dealan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dylan66&show_icons=true&theme=radical&count_private=true)
+![Dealan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dylan66&show_icons=true&theme=radical&count_private=true&hide=html,css)
 
 ### 💻 Most Used Languages
 
